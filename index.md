@@ -13,9 +13,9 @@ humandate: "Mar 29 - 31, 2021"    # human-readable dates for the workshop (e.g.,
 humantime: "12pm - 5pm EST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Melanie Gainey", "Sarah Young", "Rohit Goswami", "Chris Hamm", "Annajiat Alim Rasel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["eslayton@andrew.cmu.edu", "mgainey@andrew.cmu.edu", "sarahy@andrew.cmu.edu", "rohit.goswami@aol.com", "topher.hamm@gmail.com", "annajiat@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+instructor: ["Melanie Gainey", "Sarah Young", "Rohit Goswami", "Annajiat Alim Rasel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Patrick Campbell", "Julie Chen", "Carrie Iwema", "Melissa Ratajeski", "Helenmary Sheridan", "Cathy Su"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["eslayton@andrew.cmu.edu", "mgainey@andrew.cmu.edu", "sarahy@andrew.cmu.edu", "rohit.goswami@aol.com", "annajiat@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-03-29-cmu-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:  141873861539         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
