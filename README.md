@@ -1,6 +1,11 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
-# The Carpentries Workshop Template
+## Data Carpentry (Social Sciences with R) workshop run for Carnegie Mellon University
+**Instructors:** Melanie Gainey, Sarah Young, Rohit Goswami, Annajiat Alim Rasel, Batool Almarzouq, Michael Dubois
+
+**Helpers:** Patrick Campbell, Julie Chen, Carrie Iwema, Melissa Ratajeski, Helenmary Sheridan, Cathy Su
+
+### The Carpentries Workshop Template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops.
